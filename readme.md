@@ -39,7 +39,7 @@ It aims to identify, discuss and communicate possible uses and impacts of Blockc
 * Raspbian on a RaspberryPi 3
 * Adafruit Thermal Printer
 * Light sensors & LEDs
-* and 🤖 tech love ❤️ from Barcelona and the EU
+* and 🤖 tech love ❤️ from Barcelona and the 🇪🇺
 
 ![pi](https://github.com/Lucaslpena/CareAi-blockchain4eu/blob/master/pix/IMG_4092.jpg)
 ![arduino](https://github.com/Lucaslpena/CareAi-blockchain4eu/blob/master/pix/IMG_4096.jpg)
