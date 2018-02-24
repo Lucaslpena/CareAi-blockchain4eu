@@ -2,15 +2,18 @@
 ![Heathcare-data-atm](https://github.com/Lucaslpena/CareAi-blockchain4eu/blob/master/pix/_DSC4342.jpg)
 ### CareAi
 CareAi is a future-looking installation aimed at creating discussion around ideas of:
- * _"What might healthcare look like on the blockchain?"_
- * _"What if we had free access to distributed healthcare databases?"_ 
- * _"How might one publicly share medical data publicly?"_ 
+ * _"How might anonymize healthcare look like on the blockchain?"_
+ * _"What if individuals had free access to distributed healthcare databases?"_ 
+ * _"How might one share medical data publicly?"_ 
  * _"How might medical feedback be distributed through the blockchain?"_
 
 This project is a collaborative effort of a few individuals:
 * [Jordi Planas](http://vimod.net/en/)
-* [Ideas For Change](https://www.ideasforchange.com/)
 * [Gui Seiz](http://cargocollective.com/seiz)
+* [Maciej Hirsz](https://github.com/maciejhirsz)
+* [Ivo Lõhmus](https://apidaysnordic.github.io/2016/03/23/ivo-lohmus.html)
+* [Annalisa Pelizza](https://www.utwente.nl/en/bms/steps/staff/pelizza/)
+* [Ideas For Change](https://www.ideasforchange.com/)
 * [And Myself](http://lucaslorenzopena.com/)
 
 ![Output](https://github.com/Lucaslpena/CareAi-blockchain4eu/blob/master/pix/_DSC4349.jpg)
