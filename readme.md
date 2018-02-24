@@ -1,5 +1,5 @@
 # Blockchain4EU - CareAi
-
+![Heathcare-data-atm](https://github.com/Lucaslpena/CareAi-blockchain4eu/blob/master/pix/_DSC4342.jpg)
 ### CareAi
 CareAi is a future-looking installation aimed at creating discussion around ideas of:
  * _"What might healthcare look like on the blockchain?"_
@@ -13,6 +13,7 @@ This project is a collaborative effort of a few individuals:
 * [Gui Seiz](http://cargocollective.com/seiz)
 * [And Myself](http://lucaslorenzopena.com/)
 
+![Output](https://github.com/Lucaslpena/CareAi-blockchain4eu/blob/master/pix/_DSC4349.jpg)
 
 As part of a join project, in discovering the future of healthcare data ownership, we first need to understand what makes people share their data. For more info on this check out [Triem](https://www.ideasforchange.com/triem/).
 
@@ -26,6 +27,7 @@ sectors.
 
 It aims to identify, discuss and communicate possible uses and impacts of Blockchain and other DLT objects, networks and services within EU industrial or business contexts, from supply chains and assets monitoring, to intellectual property rights and authentication or certification. Its main outputs will contribute to explore future socio-technical scenarios of production, distribution and use, and assess risks and opportunities for development and uptake, with a key focus on SMEs and on innovation and competitiveness.
 
+![frontal](https://github.com/Lucaslpena/CareAi-blockchain4eu/blob/master/pix/_DSC4336.jpg)
 
 ### Project:
 **CareAi** is build using: 
@@ -34,4 +36,7 @@ It aims to identify, discuss and communicate possible uses and impacts of Blockc
 * Raspbian on a RaspberryPi 3
 * Adafruit Thermal Printer
 * Light sensors & LEDs
-* and 🤖 tech love ❤️
+* and 🤖 tech love ❤️ from Barcelona
+
+![pi](https://github.com/Lucaslpena/CareAi-blockchain4eu/blob/master/pix/IMG_4092.jpg)
+![arduino](https://github.com/Lucaslpena/CareAi-blockchain4eu/blob/master/pix/IMG_4096.jpg)
