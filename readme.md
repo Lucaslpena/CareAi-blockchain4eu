@@ -43,3 +43,31 @@ It aims to identify, discuss and communicate possible uses and impacts of Blockc
 
 ![pi](https://github.com/Lucaslpena/CareAi-blockchain4eu/blob/master/pix/IMG_4092.jpg)
 ![arduino](https://github.com/Lucaslpena/CareAi-blockchain4eu/blob/master/pix/IMG_4096.jpg)
+
+### Setup:
+#### Materials:
+##### Structure:
+* 1x ATM Case
+
+##### Hardware:
+* 1x Raspberry Pi 3
+* 1x Monitor Display
+* 1x Arduino Uno + Usb Cable
+* 1x Thermal Printer
+* 1x USB Mouse
+
+##### Other:
+* 2x Printer paper rolls
+* 4x ID Cards
+* 5x Blood Tests
+
+#### Installation:
+* Put the monitor inside the structure and place it against the frame.
+* Connect all the power supplies to the 4x plug adaptor ( monitor's power cable and Raspberry Pi micro USB cable), then plug the power extension to 220 AC.
+* Connect the VGA-HDMI cable from monitor VGA input to Raspberry HDMI output, and wait until PC completely boots. The app should run automatically.
+*For avoiding system sleep mode please plug a mouse and a keyboard to Raspberry USB inputs. Press ESCAPE key to shut down the app, then go to main menu panel and start Screensaver app by agreeing to the first pop-up window. Then doubleclick the BC2 app in the desktop folder for resetting the app.
+
+### Replacing consumables:
+2.25" wide, 50 ft or shorter thermal paper:
+* [Amazon](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Doffice-products&field-keywords=thermal+paper+2%2C25+50&rh=n%3A1064954%2Ck%3Athermal+paper+2%5Cc25+50)
+* [Adafruit](https://www.adafruit.com/product/599)
