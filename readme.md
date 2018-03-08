@@ -32,6 +32,15 @@ It aims to identify, discuss and communicate possible uses and impacts of Blockc
 
 ![frontal](https://github.com/Lucaslpena/CareAi-blockchain4eu/blob/master/pix/_DSC4336.jpg)
 
+### Hypothetical Operational Details
+The system operates as a network of micro-entrepreneurial owned, automated CareAI Points. Each CareAI Point provides non-hospitalized test and diagnosis to people without access to traditional health care. The CareAI Point interacts with a CareAI Smart Contract running on any smart-contract-enabled blockchain (e.g., Ethereum).
+
+A QR code card representing a private key is used as simple means of authentication to the system, decrypting the medical history of the card holder and uploading new encrypted records for the card holder onto the CareAI Smart Contract. A recurring user scans their QR code at the CareAI Point, while a new user could generate a new private key and get their card printed out during the first visit.
+
+A 3rd party, in our case a health care authority, can issue a payment to the CareAI Smart Contract, which will then allow it to decrypt a number of records collected by different CareAI Points (in a First-in First-out fashion) and redistribute the payment to those CareAI Points to cover the costs and provide an economical incentive for their maintainers.
+
+To foster the growth of the network the Initiator of the program, a research spin-off that can provide Lab-on-a-chip (LOC) technology, can run an Initial Coin Offering (ICO) to fund the research and development of the CareAI Point Open Hardware and Software specification, the Smart Contract code and the data specification.
+
 ### Project:
 **CareAi** is build using: 
 * Processing 3
