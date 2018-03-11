@@ -41,6 +41,9 @@ A 3rd party, in our case a health care authority, can issue a payment to the Car
 
 To foster the growth of the network the Initiator of the program, a research spin-off that can provide Lab-on-a-chip (LOC) technology, can run an Initial Coin Offering (ICO) to fund the research and development of the CareAI Point Open Hardware and Software specification, the Smart Contract code and the data specification.
 
+![Chart](https://github.com/Lucaslpena/CareAi-blockchain4eu/blob/master/pix/Image.png)
+
+
 ### Project:
 **CareAi** is build using: 
 * Processing 3
